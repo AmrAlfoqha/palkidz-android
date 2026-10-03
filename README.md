@@ -1,10 +1,10 @@
 # palkidz-android
 palKidz Android APK downloads (binaries only, no source code)
 
-**Current build: 1.0.0 (build 22), commit a2f2bc6** — the same commit as the Web at https://palkidz.com.
+**Current build: 1.0.0 (build 23), commit 43b6b34** — the same commit as the Web at https://palkidz.com.
 
 Download: https://github.com/AmrAlfoqha/palkidz-android/releases/latest
-(direct: https://github.com/AmrAlfoqha/palkidz-android/releases/download/v1.0.0-build22/palKidz-1.0.0%2B22-release.apk)
+(direct: https://github.com/AmrAlfoqha/palkidz-android/releases/download/v1.0.0-build23/palKidz-1.0.0%2B23-release.apk)
 
 After installing, «حسابي» → «حول التطبيق» shows the version, build number and commit. If it shows an
 older commit than the Web, the phone is running an older build: install the latest one from here.
